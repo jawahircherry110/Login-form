@@ -1,0 +1,32 @@
+
+.box1{
+    width: 50%;
+    
+  }
+  .heading-1{
+    font-size: 40px;
+    font-weight: 800;
+    text-align: center;
+  }
+  .heading-2{
+    font-weight: 800;
+    text-align: center;
+  
+  }
+  
+   
+  .content{
+    background-color:#FF8080;
+    box-shadow: 2px 3px 4px 5px #088395;
+
+  }
+ 
+  .body{
+    background-color: #D6D46D;
+  }
+ .container{
+    box-shadow: 2px 3px 4px 5px #088395;
+    
+ }
+
+ 
